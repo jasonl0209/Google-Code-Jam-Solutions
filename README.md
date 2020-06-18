@@ -1,1 +1,1 @@
-# Google-Code-Jame-Solutions
+# Google-Code-Jam-Solutions
